@@ -12,4 +12,4 @@ None.
 
 ### Workshop Papers
 
-<b>Warner, M</b>. & Blandford, A. (2018) <a href="https://networkedprivacy2018.files.wordpress.com/2018/04/warner_blandford.pdf">Do I Really Have To Publicly Disclose My HIV Status?</a> In CHI'18 Workshop (Moving Beyond a 'One-Size Fits All' Approach: Exploring Individual Differences In Privacy)
+<b>Warner, M</b>. & Blandford, A. (2018) <a href="https://uclic.ucl.ac.uk/publications/1547209">Do I Really Have To Publicly Disclose My HIV Status?</a> In CHI'18 Workshop Moving Beyond a 'One-Size Fits All' Approach: Exploring Individual Differences In Privacy.
