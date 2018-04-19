@@ -12,7 +12,7 @@ My research is funded by <a href="https://privacyus.eu">Privacy&Us</a>, EU Marie
 
 ### More Information
 
-In addition to my research interests, I am generally interested in technology as well as social psychology, running, travel, and archery. Prior to starting my PhD research, I worked for 5 years in Abu Dhabi (UAE) as a digital policing foreign advisor to the Ministry of Interior (MOI). I helped develop an advanced laboratory for acquiring and analysing data from mobile phones and other embedded systems, in complex cases. I have travelled to many places in the world, and will travel to many more. 
+In addition to my research interests, I am generally interested in technology as well as social psychology, running, travel, and archery. Prior to starting my PhD research, I worked for 5 years in Abu Dhabi (UAE) as a digital policing foreign advisor to the Ministry of Interior (MOI). I helped develop an advanced laboratory for acquiring and analysing data from mobile phones and other embedded systems. I have travelled to many places in the world, and will travel to many more. 
 
 I love cats.
 
