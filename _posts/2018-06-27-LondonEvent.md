@@ -27,5 +27,4 @@ To learn more about Mark's work, follow his website Privacurity and his Twitter.
 
 <a href="https://2.bp.blogspot.com/-kjfyF5uyF0Y/WzNfNgaR0EI/AAAAAAABVTw/s6dzRc_tGosvtQWczOwv-QQrW6l-lowsACEwYBhgL/s1600/Image%2Bfrom%2BiOS%2B%25283%2529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: black;"><img border="0" data-original-height="1600" data-original-width="1201" height="640" src="https://2.bp.blogspot.com/-kjfyF5uyF0Y/WzNfNgaR0EI/AAAAAAABVTw/s6dzRc_tGosvtQWczOwv-QQrW6l-lowsACEwYBhgL/s640/Image%2Bfrom%2BiOS%2B%25283%2529.jpg" width="480" />
 
-</p>
 </blockquote>
