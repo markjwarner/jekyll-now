@@ -8,7 +8,8 @@ Below are references to the papers I have had published. My focus is on publishi
 
 ### Proceedings Papers
 
-None.
+<b>Warner, M</b>. & Gutmann, A. & Sasse, M.A. & Blandford, A.(2018) <a href="http://discovery.ucl.ac.uk/10056127/1/CSCW18_CR_Unraveling_RPS.pdf">Privacy Unraveling Around Explicit HIV Status Disclosure Fields in the Online Geosocial Hookup App Grindr</a> <i>Proceedings of the ACM on
+Human-Computer Interaction</i> Vol. 1, CSCW (November 2018), 22 pages. <a href="https://doi.org/10.1145/3274450">
 
 ### Workshop Papers
 
