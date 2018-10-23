@@ -4,17 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD canditate at the Institute of Digital Health within UCL’s Interaction Centre. I use a mixture of research methods to understand the online social behaviours of users. I am especially interested in how people managing their individual privacy and personal data disclosures, and how these behaviours are used in relation to impression management. 
+I am a PhD canditate at the Institute of Digital Health within UCL’s Interaction Centre (UCLIC). I use a mixture of research methods to understand the online social behaviours of users. I am especially interested in how people managing their privacy and disclosure of personal information and how this is linked to people impression management behaviours.
 
-In my current research I am interested in what motivates people to share their health data in online social networks, and how people manage their digital health privacy. My research is situated within the context of HIV where I am exploring the disclosure decision-making behaviours of gay and bisexual men in online sex-social apps like Grindr.
+My current research is interested in how men who have sex with men (MSM) manage HIV status information in online sex-social applications (apps). Using a mixture of qualitative and quantitative research methods, I draw on economic, communication, and motivation theories to develop a rich understanding of how HIV status information in sex-social environments is being perceived, and how this information is changing interactions, behaviours, and social norms. My work challenges the notion of control in the design of sensitive disclosure fields and suggests that privacy may unravel around non-disclosures, as those not disclosing may be assumed to be "hiding" undesirable information.
 
 My research is funded by <a href="https://privacyus.eu">Privacy&Us</a>, EU Marie Skłodowska-Curie Innovative Training Networks.
 
 ### More Information
 
-In addition to my research interests, I am generally interested in technology as well as social psychology, running, travel, and archery. Prior to starting my PhD research, I worked for 5 years in Abu Dhabi (UAE) as a digital policing foreign advisor to the Ministry of Interior (MOI). I helped develop an advanced laboratory for acquiring and analysing data from mobile phones and other embedded systems. I have travelled to many places in the world, and will travel to many more. 
+I studied part-time for a masters degree in Security Management at the University of Portsmouth where I was awarded a distinction. My research was focused on how privacy concerns are formed, and how these concerns impact levels of self-censorship when communicating over online social messaging platforms.
 
-I love cats.
+Prior to joining UCLIC, I worked as an advisor in digital forensics for a criminal investigations department in the Middle East. I was responsible for developing enhanced capabilities for extracting, analysing, and processing data from electronic devices in criminal investigations.
+
+I like cats, and being a husband and dad. 
 
 ### Contact me
 
