@@ -8,7 +8,7 @@ Below are references to the papers I have had published or that are under review
 
 ### Proceedings Papers
 
-<b>Warner, M</b>. & Maestre, J. & Gibbs, J. & Chung. C, Blandford, A. (2019) Signal Appropriation of Explicit HIV Status Disclosure Fields in Sex-Social Apps used by Gay and Bisexual Men </i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland Uk. </i>ACM, New York, NY, USA, 15 pages. <a href="https://doi.org/10.1145/3290605.3300922">https://doi.org/10.1145/3290605.3300922</a>
+<b>Warner, M</b>. & Maestre, J. & Gibbs, J. & Chung. C, Blandford, A. (2019) Signal Appropriation of Explicit HIV Status Disclosure Fields in Sex-Social Apps used by Gay and Bisexual Men <i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland Uk. </i>ACM, New York, NY, USA, 15 pages. <a href="https://doi.org/10.1145/3290605.3300922">https://doi.org/10.1145/3290605.3300922</a>
 
 <b>Warner, M</b>. & Gutmann, A. & Sasse, M.A. & Blandford, A.(2018) <a href="http://discovery.ucl.ac.uk/10056127/1/CSCW18_CR_Unraveling_RPS.pdf">Privacy Unraveling Around Explicit HIV Status Disclosure Fields in the Online Geosocial Hookup App Grindr</a> <i>Proceedings of the ACM on
 Human-Computer Interaction</i> Vol. 2, CSCW (November 2018), 22 pages. <a href="https://doi.org/10.1145/3274450">https://doi.org/10.1145/3274450</a>
