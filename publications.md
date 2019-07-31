@@ -8,6 +8,9 @@ Below are references to papers I've had published or that are under review.
 
 ### Full Conference Papers
 
+Patel, D., Blandford, A., <b>Warner, M.</b>, Shawe, J., and Stephenson, J. (2019) "I feel like only half a man": Online Forums as a Resource for Finding a "New Normal" for Men Experiencing Fertility Issues</a> <i>In Proceedings of the ACM on Human-Computer Interaction</i> Vol. 3, CSCW (November 2019), 20 pages.
+
+
 <b>Warner, M.</b>, Maestre, J., Gibbs, J., Chung. C. & Blandford, A. (2019) Signal Appropriation of Explicit HIV Status Disclosure Fields in Sex-Social Apps used by Gay and Bisexual Men <i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland Uk. </i>ACM, New York, NY, USA, 15 pages. <a href="https://doi.org/10.1145/3290605.3300922">https://doi.org/10.1145/3290605.3300922</a>
 
 Gutmann, A. & <b>Warner, M.</b> (2019) <a href="">Fight to be Forgotten: Exploring the Efficacy of Data Erasure in Popular Operating Systems</a> <i>In Annual Privacy Forum (pp. xx-xx). Springer, Cham.</i> <a href="https://doi.org/10.xxxx/xxxxxxx">https://doi.org/10.xxxx/xxxxxxx</a>
