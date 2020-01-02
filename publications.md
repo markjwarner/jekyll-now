@@ -8,9 +8,9 @@ Below are references to papers I've had published or that are under review.
 
 ### Full Conference Papers
 
-<b>Warner, M.</b>, Kitkowska, A., Gibbs, J., Maestre, J. & Blandford, A. (2020) Evaluating 'Prefer not to say' Around Sensitive Disclosures <i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawaii, USA. </i>ACM, New York, NY, USA, 13 pages.
+<b>Warner, M.</b>, Kitkowska, A., Gibbs, J., Maestre, J. & Blandford, A. (2020) Evaluating 'Prefer not to say' Around Sensitive Disclosures <i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawaii, USA. </i>ACM, New York, NY, USA, 13 pages. <a href="http://doi.org/10.1145/3313831.3376150">http://doi.org/10.1145/3313831.3376150</a>
 
-Patel, D., Blandford, A., <b>Warner, M.</b>, Shawe, J., and Stephenson, J. (2019) "I feel like only half a man": Online Forums as a Resource for Finding a "New Normal" for Men Experiencing Fertility Issues <i>In Proceedings of the ACM on Human-Computer Interaction</i> Vol. 3, CSCW (November 2019), 20 pages.
+Patel, D., Blandford, A., <b>Warner, M.</b>, Shawe, J., and Stephenson, J. (2019) <a href="https://doi.org/10.1145/3359184">"I feel like only half a man": Online Forums as a Resource for Finding a "New Normal" for Men Experiencing Fertility Issues</a> <i>In Proceedings of the ACM on Human-Computer Interaction</i> Vol. 3, CSCW (November 2019), 20 pages. <a href="https://doi.org/10.1145/3359184">https://doi.org/10.1145/3359184</a>
 
 
 <b>Warner, M.</b>, Maestre, J., Gibbs, J., Chung. C. & Blandford, A. (2019) Signal Appropriation of Explicit HIV Status Disclosure Fields in Sex-Social Apps used by Gay and Bisexual Men <i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland Uk. </i>ACM, New York, NY, USA, 15 pages. <a href="https://doi.org/10.1145/3290605.3300922">https://doi.org/10.1145/3290605.3300922</a>
