@@ -8,6 +8,8 @@ Below are references to papers I've had published or that are under review.
 
 ### Full Conference Papers
 
+<b>Warner, M.</b>, Kitkowska, A., Gibbs, J., Maestre, J. & Blandford, A. (2020) Evaluating 'Prefer not to say' Around Sensitive Disclosures <i>In CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2019, Honolulu, Hawaii, USA. </i>ACM, New York, NY, USA, 13 pages.
+
 Patel, D., Blandford, A., <b>Warner, M.</b>, Shawe, J., and Stephenson, J. (2019) "I feel like only half a man": Online Forums as a Resource for Finding a "New Normal" for Men Experiencing Fertility Issues <i>In Proceedings of the ACM on Human-Computer Interaction</i> Vol. 3, CSCW (November 2019), 20 pages.
 
 
@@ -36,5 +38,3 @@ None
 
 ### Under Review
 
-<b>Warner, M.</b>, Kitkowska, A., Gibbs, J., Maestre, J. & Blandford, A. (2019) <a href="">'Prefer not to say': Exploring Perceptions and Designs of Sensitive Non-Disclosures in an Online Dating Context</a> <i>Proceedings of the ACM on
-Human-Computer Interaction</i> Vol. 3, CSCW (November 2019), 20 pages.
